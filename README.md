@@ -17,7 +17,7 @@ Solidarität mit [Netzpolitik.org](https://netzpolitik.org/2015/verdacht-des-lan
 
 ## Beschreibung
 
-Schaltet dem ersten Aufruf jeder beliebigen URL deiner WordPress-Site eine statische HTML-Seite vor. Dabei wird ein Cookie gesetzt, der die Anzeige der statische Seite beim nächsten Aufruf verhindert. Zum originalen Inhalt der aufgerufenen URL reicht ein Aktualisieren der statischen Seite im Browser.
+Schaltet dem ersten Aufruf jeder beliebigen URL deiner WordPress-Site eine statische HTML-Seite vor (sieht aus wie der Screenshot oben). Dabei wird ein Cookie gesetzt, der die Anzeige der statische Seite beim nächsten Aufruf verhindert. Zum originalen Inhalt der aufgerufenen URL reicht ein Aktualisieren der statischen Seite im Browser.
 
 Der Cookie bleibt für 1 Stunde gespeichert. Der Wert lässt sich mittels Filter anpassen, z.B. für 1 Tag:
 
