@@ -3,6 +3,16 @@ Solidarität mit [Netzpolitik.org](https://netzpolitik.org/2015/verdacht-des-lan
 
 ![Screenshot](https://github.com/glueckpress/landesverraeter_in/raw/master/screenshot.png)
 
+---
+
+> ### Spenden an netzpolitik.org
+>
+> Inhaber: netzpolitik.org e. V.
+> IBAN: DE62430609671149278400
+> Zweck: Spende netzpolitik.org
+
+---
+
 ## Beschreibung
 
 Schaltet dem ersten Aufruf jeder beliebigen URL deiner WordPress-Site eine statische HTML-Seite vor. Dabei wird ein Cookie gesetzt, der die Anzeige der statische Seite beim nächsten Aufruf verhindert. Zum originalen Inhalt der aufgerufenen URL reicht ein Aktualisieren der statischen Seite im Browser.
