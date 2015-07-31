@@ -4,6 +4,8 @@
  * Description: Schaltet dem ersten Aufruf jeder beliebigen URL deiner Site eine statische HTML-Seite vor. Dabei wird ein Cookie gesetzt, der die Anzeige der statische Seite beim nächsten Aufruf verhindert. Zum originalen Inhalt der aufgerufenen URL reicht ein Aktualisieren der statischen Seite im Browser.
  * Version:     0.1
  * Author:      glueckpress
+ * Author URI:  http://glueckpress.com
+ * Plugin URI:  https://github.com/glueckpress/landesverraeter_in
  * License:     GNU General Public License v3
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */
