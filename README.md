@@ -1,4 +1,4 @@
-# \_Landesverraeter_in
+# Landesverraeter_in
 Solidarität mit [Netzpolitik.org](https://netzpolitik.org/2015/verdacht-des-landesverrats-generalbundesanwalt-ermittelt-doch-auch-gegen-uns-nicht-nur-unsere-quellen/). Statement für Pressefreiheit in deiner WordPress-Site.
 
 ![Screenshot](https://github.com/glueckpress/landesverraeter_in/raw/master/screenshot.png)
@@ -11,7 +11,7 @@ Der Cookie bleibt für 1 Stunde gespeichert. Der Wert lässt sich mittels Filter
 
 ```php
 // Konstanten s. https://codex.wordpress.org/Easier_Expression_of_Time_Constants
-add_filter( '_landesverraeter_in__cookie_expire', function () {
+add_filter( 'landesverraeter_in__cookie_expire', function () {
 	return DAY_IN_SECONDS;
 } );
 ```
