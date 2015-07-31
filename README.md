@@ -8,7 +8,9 @@ Solidarität mit [Netzpolitik.org](https://netzpolitik.org/2015/verdacht-des-lan
 > ### Spenden an netzpolitik.org
 >
 > Inhaber: netzpolitik.org e. V.
+>
 > IBAN: DE62430609671149278400
+>
 > Zweck: Spende netzpolitik.org
 
 ---
