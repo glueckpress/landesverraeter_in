@@ -81,9 +81,9 @@
 			<div class="inner">
 				<div class="centered" id="page">
 					<h1 class="title">Landesverräter_in</h1>
-					<p class="description"><strong>…im Dienste der Pressefreiheit.</strong>
+					<p class="description"><strong>… im Dienste der Pressefreiheit.</strong>
 					<br><a href="https://netzpolitik.org/2015/verdacht-des-landesverrats-generalbundesanwalt-ermittelt-doch-auch-gegen-uns-nicht-nur-unsere-quellen/">Solidarität mit Netzpolitik.org</a></p>
-					<p class="tooltip">neu laden für originalen Seiteninhalt</p>
+					<p class="tooltip">Neu laden für originalen Seiteninhalt</p>
 				</div>
 			</div>
 		</div>
